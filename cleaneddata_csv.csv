@@ -1,4 +1,4 @@
-Spindle speed (rpm),Cutting speed (mm/m?n),Feed rate (mm/m?n),Depth of cut (mm),Surface roughness (Ra)
+Spindle speed (rpm),Cutting speed (mm/min),Feed rate (mm/min),Depth of cut (mm),Surface roughness (Ra)
 600,94.24,200,0.15,0.4166
 800,125.66,200,0.15,0.3566
 1000,157.07,200,0.15,0.34
